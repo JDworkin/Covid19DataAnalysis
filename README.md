@@ -21,9 +21,10 @@ This project involves data analysis of COVID-19 vaccination trends over time usi
    cd Covid19DataAnalysis
 
 2. Install dependencies:
+   ```bash
    pip install -r requirements.txt
 
-3. Run the Flask app:
+4. Run the Flask app:
    ```bash
    cd Covid19DataAnalysis
    python main.py
