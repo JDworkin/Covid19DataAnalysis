@@ -39,5 +39,5 @@ This project involves data analysis of COVID-19 vaccination trends over time usi
 ```bash
 jupyter notebook
 
-Navigate to the notebook folder.
-Open and run the Data_Analysis.ipynb notebook.
+**Navigate to the notebook folder.
+Open and run the Data_Analysis.ipynb notebook.**
