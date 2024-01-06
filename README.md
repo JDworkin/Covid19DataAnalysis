@@ -1,8 +1,7 @@
 # COVID-19 Data Analysis
 
 ## Overview
-
-This project involves data analysis of COVID-19 vaccination trends over time using Python. It includes both a Flask web application for visualizing the trends and a Jupyter Notebook for exploring the data.
+Explore and visualize COVID-19 vaccination trends effortlessly with this Python project. The Flask web application provides an interactive dashboard, while the Jupyter Notebook allows in-depth data analysis. Discover insights from comprehensive data sets and stay informed about the ongoing vaccination efforts against the pandemic.
 
 ## Flask Web Application
 
