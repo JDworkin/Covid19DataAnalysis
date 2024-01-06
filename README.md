@@ -24,7 +24,7 @@ This project involves data analysis of COVID-19 vaccination trends over time usi
    pip install -r requirements.txt
 
 3. Run the Flask app:
-   python app.py
+   python main.py
 
 4.Open the app in your browser: http://127.0.0.1:5000/
 
